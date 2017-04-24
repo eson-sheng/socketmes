@@ -1,0 +1,15 @@
+2017-04-21 17:10:52 pid:13603 Workerman[start.php] start in DEBUG mode
+2017-04-21 17:11:06 pid:13603 Workerman[start.php] Stopping ...
+2017-04-21 17:11:06 pid:13603 Workerman[start.php] has been stopped
+2017-04-21 17:18:29 pid:13672 Workerman[start.php] start in DEBUG mode
+2017-04-21 17:20:10 pid:13672 Workerman[start.php] Stopping ...
+2017-04-21 17:20:10 pid:13672 Workerman[start.php] has been stopped
+2017-04-21 18:01:21 pid:14063 Workerman[start.php] start in DEBUG mode
+2017-04-21 18:03:37 pid:14063 Workerman[start.php] Stopping ...
+2017-04-21 18:03:37 pid:14063 Workerman[start.php] has been stopped
+2017-04-21 18:03:41 pid:14292 Workerman[start.php] start in DAEMON mode
+2017-04-21 18:03:57 pid:14317 Workerman[start.php] status 
+2017-04-24 15:46:40 pid:9750 Workerman[start.php] start in DEBUG mode
+2017-04-24 15:47:58 pid:9750 Workerman[start.php] Stopping ...
+2017-04-24 15:47:58 pid:9750 Workerman[start.php] has been stopped
+2017-04-24 15:53:21 pid:10006 Workerman[start.php] start in DEBUG mode
